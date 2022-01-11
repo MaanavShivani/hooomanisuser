@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hooomanisuser
-- 👀 I’m interested in web developing
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning applied visual design
 - 💞️ I’m looking to collaborate on myself
 - 📫 How to reach me why u wanna do that
