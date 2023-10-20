@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hooomanisuser
+- 👋 Hi, I’m Maanav Shivani
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning applied visual design
 - 💞️ I’m looking to collaborate on myself
-- 📫 How to reach me why u wanna do that
+
 
 <!---
 hooomanisuser/hooomanisuser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
